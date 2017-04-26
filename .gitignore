@@ -1,0 +1,7 @@
+build/
+dist/
+django_html_editor.egg-info/
+*.py[co]
+*.sw[op]
+
+
